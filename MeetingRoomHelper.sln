@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingRoomHelper", "MeetingRoomHelper\MeetingRoomHelper.csproj", "{2C06B634-345D-4274-9FCF-6B3DCFA2893C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{BE60E81F-F657-48F2-B180-4AEAE5B176B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingRoomHelper.Core", "MeetingRoomHelper.Core\MeetingRoomHelper.Core.csproj", "{EE0E27E5-8492-4923-98D6-F83F8C1D47C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C06B634-345D-4274-9FCF-6B3DCFA2893C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C06B634-345D-4274-9FCF-6B3DCFA2893C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C06B634-345D-4274-9FCF-6B3DCFA2893C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C06B634-345D-4274-9FCF-6B3DCFA2893C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE60E81F-F657-48F2-B180-4AEAE5B176B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE60E81F-F657-48F2-B180-4AEAE5B176B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE60E81F-F657-48F2-B180-4AEAE5B176B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE60E81F-F657-48F2-B180-4AEAE5B176B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE0E27E5-8492-4923-98D6-F83F8C1D47C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0E27E5-8492-4923-98D6-F83F8C1D47C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0E27E5-8492-4923-98D6-F83F8C1D47C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0E27E5-8492-4923-98D6-F83F8C1D47C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
