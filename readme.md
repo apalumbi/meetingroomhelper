@@ -1,6 +1,6 @@
 ## About
 
-Helps show the rooms available for a certain time
+Solves the problem of not know what conference rooms are available for a certain day/time.
 
 ## Usage
 
